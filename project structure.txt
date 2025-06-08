@@ -1,0 +1,6 @@
+speech_to_text/
+│
+├── recognize_with_speechrecognition.py
+├── transcribe_with_wav2vec2.py
+├── sample_audio.wav  # <- You need to provide this audio file (16kHz, mono WAV)
+└── README.md
